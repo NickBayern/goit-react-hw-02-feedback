@@ -50,4 +50,4 @@ render () {
 }
 
 
-export default App;0
+export default App;
